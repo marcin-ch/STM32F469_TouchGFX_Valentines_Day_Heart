@@ -2,8 +2,17 @@
   "Application": {
     "Screens": [
       {
-        "Name": "Screen1",
-        "Components": [],
+        "Name": "MainScreen",
+        "Components": [
+          {
+            "Type": "TiledImage",
+            "Name": "background",
+            "Width": 800,
+            "Height": 480,
+            "FileName": "__designer\\Blue_Textures_white_leather.png",
+            "Style": "Texture20"
+          }
+        ],
         "Interactions": []
       }
     ],
@@ -14,7 +23,7 @@
       "Height": 480
     },
     "SelectedColorDepth": 16,
-    "StartupScreenName": "Screen1",
+    "StartupScreenName": "MainScreen",
     "SelectedStartupLanguage": "GB",
     "Skin": "Blue",
     "TouchGfxPath": "../Middlewares/ST/touchgfx",
