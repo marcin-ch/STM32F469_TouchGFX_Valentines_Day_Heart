@@ -11,6 +11,20 @@
             "Height": 480,
             "FileName": "__designer\\Blue_Textures_white_leather.png",
             "Style": "Texture20"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "greatings",
+            "X": 284,
+            "Y": 122,
+            "Width": 233,
+            "Height": 25,
+            "TextId": "__SingleUse_2B9C",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255
+            },
+            "AutoSize": true
           }
         ],
         "Interactions": []
