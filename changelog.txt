@@ -1,0 +1,17 @@
+3.0.6
+- Upgraded to TouchGFX 4.18.1
+- Upgraded to STM32CubeMX 6.4.0
+
+3.0.5
+- Removed generation of .bin files for the external flash section
+- Upgraded to TouchGFX 4.18
+
+3.0.4
+- Upgraded to STM32CubeMX 6.3.0
+- Upgraded to Firmware Package FW_F4 1.26.2
+
+3.0.3
+- Upgraded to TouchGFX 4.17
+- Upgraded to STM32CubeMX 6.2.1
+- Upgraded to Firmware Package FW_F4 1.26.1
+- Added DefaultTask to allow IP integration out of STM32CubeMX
