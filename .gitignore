@@ -1,0 +1,7 @@
+STM32CubeIDE/Debug/
+STM32CubeIDE/.settings/
+Middlewares/ST/touchgfx/
+TouchGFX/config/
+TouchGFX/generated/
+TouchGFX/gui/
+TouchGFX/simulator/
