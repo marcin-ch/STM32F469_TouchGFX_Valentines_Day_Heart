@@ -25,6 +25,19 @@
               "Red": 255
             },
             "AutoSize": true
+          },
+          {
+            "Type": "AnimatedImage",
+            "Name": "heart_beating",
+            "X": 360,
+            "Y": 200,
+            "Width": 120,
+            "Height": 120,
+            "FileNameFirst": "first.png",
+            "FileNameLast": "last.png",
+            "UpdateTicksInterval": 600,
+            "StartOnLoad": true,
+            "LoopEnabled": true
           }
         ],
         "Interactions": []
